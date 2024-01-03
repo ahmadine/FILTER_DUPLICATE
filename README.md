@@ -1,2 +1,2 @@
-# FILTER_DUPLICATE
-Python code to to compare two scores by the same person, leaving the one with the highest score in a csv file
+# PYTHON SCRIPTS
+Python code to format records in a csv file
